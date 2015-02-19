@@ -284,6 +284,10 @@ msgstr "Выберите файлы для загрузки"
 msgid "Upload a file"
 msgstr "Загрузить"
 
+#: templates/filebrowser/upload.html:43
+msgid "Back"
+msgstr "Назад"
+
 #: templates/filebrowser/upload.html:52
 msgid "Failed"
 msgstr "Неудачно"
